@@ -1,4 +1,4 @@
-# Network Security Research Toolkit
+# Phantom-MiTM (Network Security Research Toolkit) 
 **Educational Tool for Authorized Security Testing and Research**
 
 ## ⚠️ LEGAL AND ETHICAL DISCLAIMER
@@ -39,7 +39,7 @@ Educational research toolkit demonstrating network security concepts for academi
 
 ### Educational Installation
 ```bash
-git clone https://github.com/your-username/network-research-toolkit.git
-cd network-research-toolkit
-chmod +x research_framework.sh
-sudo ./research_framework.sh --educational-mode
+git clone https://github.com/tt7hk/Phantom-MiTM-Tool.git
+cd Phantom-MiTM-Tool
+chmod +x tool.sh
+sudo ./tool.sh 
