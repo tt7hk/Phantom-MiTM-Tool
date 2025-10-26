@@ -14,7 +14,7 @@
 ## Project Overview
 Educational research toolkit demonstrating network security concepts for academic and authorized professional use.
 
-##Objectives
+## Objectives
 - Study ARP, DNS, and DHCP protocol behaviors
 - Analyze network traffic patterns
 - Understand man-in-the-middle attack vectors
