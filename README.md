@@ -1,7 +1,7 @@
 # Phantom-MiTM (Network Security Research Toolkit) 
 **Educational Tool for Authorized Security Testing and Research**
 
-## ⚠️ LEGAL AND ETHICAL DISCLAIMER
+## LEGAL AND ETHICAL DISCLAIMER
 **IMPORTANT: FOR EDUCATIONAL AND AUTHORIZED SECURITY RESEARCH ONLY**
 
 ### Strict Usage Guidelines
@@ -11,16 +11,16 @@
 - NEVER use against systems you don't own or without permission
 - COMPLY with all local, state, and federal laws
 
-## 🎯 Project Overview
+## Project Overview
 Educational research toolkit demonstrating network security concepts for academic and authorized professional use.
 
-## 📚 Educational Objectives
+##Objectives
 - Study ARP, DNS, and DHCP protocol behaviors
 - Analyze network traffic patterns
 - Understand man-in-the-middle attack vectors
 - Develop defensive detection strategies
 
-## 🛠️ Research Features
+##  Research Features
 ### Protocol Analysis Tools
 - Network Scanning - Educational network discovery
 - Traffic Analysis - Protocol behavior research
@@ -31,7 +31,7 @@ Educational research toolkit demonstrating network security concepts for academi
 - Defense Mechanism Development - Countermeasure research
 - Security Awareness Training - Educational content creation
 
-## 📋 Installation for Research
+## Installation for Research
 ### Prerequisites
 - Linux/macOS/Windows systems
 - Root/Administrator privileges
