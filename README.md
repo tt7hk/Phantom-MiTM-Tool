@@ -37,9 +37,11 @@ Educational research toolkit demonstrating network security concepts for academi
 - Root/Administrator privileges
 - Academic or research environment
 
-### Educational Installation
+### Installation
 ```bash
 git clone https://github.com/tt7hk/Phantom-MiTM-Tool.git
 cd Phantom-MiTM-Tool
 chmod +x tool.sh
 sudo ./tool.sh 
+```
+## Phantom MiTM VPRO (Paid) Coming Soon With Crazy Features...
